@@ -12,7 +12,7 @@ page_sections:
   - link: "#defi"
     link_text: GUIDE TO DEFI
   - link: "#customize"
-    link_text: Customize
+    link_text: CONSULTATION
   - link: "#responsive"
     link_text: Responsive
   - link: "#blocks"
