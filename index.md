@@ -9,8 +9,8 @@ page_sections:
   navigation:
   - link: "/"
     link_text: POSTS
-  - link: "#swap"
-    link_text: Swap
+  - link: "#defi"
+    link_text: GUIDE TO DEFI
   - link: "#customize"
     link_text: Customize
   - link: "#responsive"
