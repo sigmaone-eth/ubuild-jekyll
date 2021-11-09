@@ -16,7 +16,7 @@ page_sections:
   - link: "#responsive"
     link_text: ABOUT ME
   - link: "#blocks"
-    link_text: Blocks
+    link_text: CONTACT ME
   cta:
     url: https://app.forestry.io/quick-start?repo=forestryio/ubuild-jekyll&provider=github&engine=jekyll
     button_text: Import
