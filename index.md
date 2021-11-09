@@ -7,6 +7,8 @@ page_sections:
   block: header-2
   logo: "/uploads/2021/11/09/sigma_one_finance_logo-removebg-preview.png"
   navigation:
+  - link: ''
+    link_text: NFT GUIDE
   - link: "/"
     link_text: POSTS
   - link: "#defi"
