@@ -14,7 +14,7 @@ page_sections:
   - link: "#customize"
     link_text: CONSULTATION
   - link: "#responsive"
-    link_text: Responsive
+    link_text: ABOUT ME
   - link: "#blocks"
     link_text: Blocks
   cta:
