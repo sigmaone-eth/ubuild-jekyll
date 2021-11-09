@@ -8,7 +8,7 @@ page_sections:
   logo: "/uploads/2021/11/09/sigma_one_finance_logo-removebg-preview.png"
   navigation:
   - link: "/"
-    link_text: SIGMA
+    link_text: POSTS
   - link: "#swap"
     link_text: Swap
   - link: "#customize"
